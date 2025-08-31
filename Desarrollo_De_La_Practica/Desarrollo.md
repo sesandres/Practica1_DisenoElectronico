@@ -6,8 +6,7 @@ alguno de los compuestos mencionados.
 
 ![Ejerciocio 1](/Imagenes/mq135.png)
 
-La gráfica **RS/R0** vs ppm indica cómo varía la resistencia del sensor MQ-135 al detectar diferentes 
-gases en función de su concentración. 
+La gráfica **RS/R0** vs ppm indica cómo varía la resistencia del sensor MQ-135 al detectar diferentes gases en función de su concentración.   
 **RS**: resistencia del sensor en el momento de la medición.   
 **R0**: resistencia del sensor en aire limpio (se calibra al inicio).   
 **RS/R0**: relación que se usa para identificar gases específicos.   
