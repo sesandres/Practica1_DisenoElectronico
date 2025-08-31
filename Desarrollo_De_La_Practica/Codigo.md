@@ -6,9 +6,9 @@
 #include <MQUnifiedsensor.h>
 
 // === Configuración Ubidots y Wi-Fi ===
-const char *UBIDOTS_TOKEN = "BBUS-GNBkQ8Kq6Vx1RqIn0SXGX1kkJYHOcx";
-const char *WIFI_SSID = "Familia Zapata";
-const char *WIFI_PASS = "santi2003";
+const char *UBIDOTS_TOKEN = "Token";
+const char *WIFI_SSID = "wifi";
+const char *WIFI_PASS = "contraseña";
 const char *DEVICE_LABEL = "esp23"; // Nombre del dispositivo en Ubidots
 
 Ubidots ubidots(UBIDOTS_TOKEN);
