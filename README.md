@@ -1,1 +1,1 @@
-# Practica1_Dise-oElectronico
+# Practica1_DisenoElectronico
